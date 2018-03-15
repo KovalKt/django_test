@@ -1,2 +1,5 @@
 /venv/
 venv/django_test
+*.pyc
+*.db
+*.sql
