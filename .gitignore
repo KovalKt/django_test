@@ -3,3 +3,4 @@ venv/django_test
 *.pyc
 *.db
 *.sql
+*.sqlite3
